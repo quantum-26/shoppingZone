@@ -1,3 +1,7 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["eslint:recommended","next/core-web-vitals"]
 }
+
+// eslint:recommended :- check if an variable is missing 
+// eg. if we didn't have title props define in Layout along with children 
+//  it will show the error
