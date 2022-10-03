@@ -1,7 +1,7 @@
 # Next JS  Tailwind Ecommerce Website 
 Build ECommerce Website by Next.js
 
-- Demo Website :  https://nextjs-amazona-final.vercel.app
+- Demo Website :  https://shopping-zone-sigma.vercel.app/
 
 ## What is use in project
 
